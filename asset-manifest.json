@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/world_wise/static/css/main.30648bf6.css",
+    "main.js": "/world_wise/static/js/main.dcf3a82b.js",
+    "static/js/787.cca8b095.chunk.js": "/world_wise/static/js/787.cca8b095.chunk.js",
+    "static/media/bg.jpg": "/world_wise/static/media/bg.3e2be86d98db926ce9f0.jpg",
+    "index.html": "/world_wise/index.html",
+    "main.30648bf6.css.map": "/world_wise/static/css/main.30648bf6.css.map",
+    "main.dcf3a82b.js.map": "/world_wise/static/js/main.dcf3a82b.js.map",
+    "787.cca8b095.chunk.js.map": "/world_wise/static/js/787.cca8b095.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30648bf6.css",
+    "static/js/main.dcf3a82b.js"
+  ]
+}
